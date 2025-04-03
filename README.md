@@ -1,5 +1,9 @@
 # ACADEMIA INGENIERÍA ESTRUCTURAL
 
-La página web brindará un servicio de educación gratuita y de paga
+Estudiante: Walter Antonio Machaca Anze
+Carrera: Sistemas informáticos
 
-Estudiante
+La página web brindará un servicio de educación gratuita y de paga para estudiantes, profesionales y todo público aficionado a la ingeniería estructural
+
+
+
